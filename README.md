@@ -1,18 +1,19 @@
 <!-- for my GitHub profile -->
 #### 🧤mignon.choi @cminy
-<sub>**Repository list**</sub>
-<sup>
+**Repository list**
   - Python
-    - _[public]_ review_python2, review_python3_wFC2022, study_statistics_wPython, study_python-refactoring
-    - _[private]_ study_python
+    - _[public]_ R2022_python2, R2022_python3, N2022_statistics_wPython, N2022_python-refactoring
+    - _[private]_ N2019_study_python, N2022_ML
   - Other langs
-    - _[public]_ study_nodejs, study_ajax
-    - _[private]_ review_web2, review_htmlweb1, review_java
+    - _[public]_ N2019_study_nodejs, N2019_study_ajax
+    - _[private]_ R2019_web2, R2019_htmlweb1, R2022_java
   - 공인중개사 검색 서비스
     - _[private]_ cminydev
+  - TEDxShinchon Homepage
+    - _[private]_ tedxsinchon_web7th
   - for my GitHub, etc.
     - _[public]_ cminy, [public] cminy2
-</sup>
+
 <p align="center">
 <a href="https://github.com/cminy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cminy&&custom_title=mignon.choi's&nbsp;GitHub&nbsp;stats&show_icons=true&theme=swift&count_private=true&include_all_commits=true&hide=stars,contribs"></a>
 <a href="https://github.com/cminy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cminy&hide=Makefile&langs_count=5&layout=compact&theme=swift&custom_title=Recently&nbsp;used&nbsp;Languages">

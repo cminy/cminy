@@ -13,9 +13,9 @@
     - _[public]_ N2019_study_nodejs, N2019_study_ajax
     - _[private]_ R2019_web2, R2019_htmlweb1, R2022_java
   - 공인중개사 검색 서비스
-    - _[private]_ cminydev
+    - _[private]_ cminydev_2019
   - TEDxShinchon Homepage
-    - _[private]_ tedxsinchon_web7th
+    - _[private]_ tedxsinchon_web7th_2013
   - for my GitHub, etc.
     - _[public]_ cminy, [public] cminy2
 <p></p>

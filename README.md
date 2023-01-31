@@ -1,5 +1,10 @@
 <!-- for my GitHub profile -->
 ### 🧤mignon.choi @cminy
+<p align="center">
+<a href="https://github.com/cminy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cminy&hide=Makefile&langs_count=5&layout=compact&theme=swift&custom_title=Recently&nbsp;used&nbsp;Languages">
+</a>
+</p>
+
 **Repository list**
   - Python practice
     - _[public]_ R2022_python2, R2022_python3, N2022_statistics_wPython, N2022_python-refactoring
@@ -13,12 +18,7 @@
     - _[private]_ tedxsinchon_web7th
   - for my GitHub, etc.
     - _[public]_ cminy, [public] cminy2
-
-<p align="center">
-<a href="https://github.com/cminy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cminy&hide=Makefile&langs_count=5&layout=compact&theme=swift&custom_title=Recently&nbsp;used&nbsp;Languages">
-</a>
-</p>
-
+<p></p>
 
 **What I am currently interested in...**
 <p align="left">

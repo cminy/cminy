@@ -21,7 +21,7 @@
 </p>
 
 
-**What I am currently interested in...*
+**What I am currently interested in...**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>

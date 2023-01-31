@@ -1,5 +1,5 @@
 <!-- for my GitHub profile -->
-#### 🧤mignon.choi @cminy
+### 🧤mignon.choi @cminy
 **Repository list**
   - Python
     - _[public]_ R2022_python2, R2022_python3, N2022_statistics_wPython, N2022_python-refactoring
@@ -21,7 +21,7 @@
 </p>
 
 
-##### 🌿 What I am currently interested in...
+**What I am currently interested in...*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>

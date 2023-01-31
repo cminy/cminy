@@ -15,7 +15,6 @@
     - _[public]_ cminy, [public] cminy2
 
 <p align="center">
-<a href="https://github.com/cminy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cminy&&custom_title=mignon.choi's&nbsp;GitHub&nbsp;stats&show_icons=true&theme=swift&count_private=true&include_all_commits=true&hide=stars,contribs"></a>
 <a href="https://github.com/cminy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cminy&hide=Makefile&langs_count=5&layout=compact&theme=swift&custom_title=Recently&nbsp;used&nbsp;Languages">
 </a>
 </p>

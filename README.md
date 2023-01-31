@@ -1,7 +1,7 @@
 <!-- for my GitHub profile -->
 ### 🧤mignon.choi @cminy
 **Repository list**
-  - Python
+  - Study Python
     - _[public]_ R2022_python2, R2022_python3, N2022_statistics_wPython, N2022_python-refactoring
     - _[private]_ N2019_study_python, N2022_ML
   - Other langs
